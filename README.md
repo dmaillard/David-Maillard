@@ -1,4 +1,4 @@
-# Small Business Web Design Company
+# Websites Designed To Drive More Sales & Revenue.
 
 User friendly software, results-driven websites, unlimited tech support, free software upgrades, premium hosting services and fixed ongoing prices you can budget for.
 
