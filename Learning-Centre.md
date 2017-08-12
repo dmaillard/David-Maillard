@@ -16,7 +16,14 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-### [](#header-3)Header 3
+### [](#header-3)Design
+
+Web design is less about looks and more about strategy.
+Use our free guides and resources to learn how a few simple tweaks on your website can have your sales funnel overflowing with quality leads.
+
+[Ultimate Conversion Checklist](another-page).
+[28 Ways to Increase Your Sales And Conversion](another-page).
+[10 Essential Elements for Mobile Website Performance](another-page).
 
 ```js
 // Javascript code with syntax highlighting.
