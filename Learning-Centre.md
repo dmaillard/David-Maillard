@@ -4,17 +4,9 @@ layout: default
 
 ## [](#header-2)Feeling anxious about how fast the sales and marketing landscape is changing around you?
 
-> Want to learn how to transform the latest digital tactics into profits for your business?
-> 
-> Then say hello to our Learning Centre, where we share practical, jargon-free web and marketing advice. Because what’s the point in having a fancy looking website, if it doesn’t produce bring in the results?
+Want to learn how to transform the latest digital tactics into profits for your business?
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Then say hello to our Learning Centre, where we share practical, jargon-free web and marketing advice. Because what’s the point in having a fancy looking website, if it doesn’t produce bring in the results?
 
 ### [](#header-3)Design
 
@@ -28,7 +20,7 @@ Use our free guides and resources to learn how a few simple tweaks on your websi
 
 [10 Essential Elements for Mobile Website Performance](another-page).
 
-###Marketing
+### Marketing
 
 Learn what it takes to master your digital footprint in today’s ever-changing marketplace.
 
@@ -40,7 +32,7 @@ From social to SEO and everything in between, we’ll teach you how to attract m
 
 [10 Essential Elements for Mobile Website Performance](another-page).
 
-###Support / Digital Coaching
+### Support / Digital Coaching
 
 Ditch the overwhelm with no-nonsense, jargon-free help on demand. Use our support and digital coaching resources to take back control of your website’s maintenance and marketing (or perhaps your sanity).
 
@@ -50,7 +42,7 @@ Ditch the overwhelm with no-nonsense, jargon-free help on demand. Use our suppor
 
 [10 Essential Elements for Mobile Website Performance](another-page).
 
-###Get Your Free 20-Minute Website Discovery Consultation
+### Get Your Free 20-Minute Website Discovery Consultation
 
 To explore how we can help you create a sales weapon that’ll capture and convert more customers, fill out your details below and we’ll be in touch within the next two hours.
  
@@ -63,6 +55,14 @@ Phone*
 Website Address (if applicable)
  Get my free consultation
 
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](another-page).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ```js
 // Javascript code with syntax highlighting.
