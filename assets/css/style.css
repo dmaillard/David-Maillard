@@ -257,7 +257,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #222;
+    color: #637381;
     margin: 0 0 20px
 }
 p,
@@ -277,7 +277,7 @@ h1 {
     font-size: 28px
 }
 h2 {
-    color: #393939
+    color: #637381
 }
 h3,
 h4,
@@ -348,7 +348,7 @@ header {
     width: 270px;
     float: left;
     position: fixed;
-    -webkit-font-smoothing: subpixel-antialiased
+    /*-webkit-font-smoothing: subpixel-antialiased*/
 }
 header ul {
     list-style: none;
