@@ -8,7 +8,7 @@ If [email](https://github.com/dmaillard/David-Maillard/edit/master/README.md) is
 
 Need Tech Support? [Click here](https://github.com/dmaillard/David-Maillard/edit/master/README.md).
 
-```markdown
+```
 DMA Consulting, LLC
 412 N Main St
 Buffalo, WY 82834
@@ -16,20 +16,7 @@ Buffalo, WY 82834
 david@dmaillard.com
 
 +55 11 9 4378 3077
+https://github.com/dmaillard/David-Maillard/edit/master/README.md
 
-[](https://github.com/dmaillard/David-Maillard/edit/master/README.md)
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[https://github.com/dmaillard/David-Maillard/edit/master/README.md](https://github.com/dmaillard/David-Maillard/edit/master/README.md)
 ```
