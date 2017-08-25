@@ -10,17 +10,14 @@ Need Tech Support? [Click here](mailto:david@dmaillard.com).
 
 <dl>
 <dt>Address</dt>
-<dd>412 N Main St<br>Buffalo, WY 82834</dd>
+<dd>412 N Main St, Buffalo, WY 82834</dd>
 <dt>Email</dt>
 <dd>david@dmaillard.com</dd>
 <dt>Mobile</dt>
 <dd>+55 11 9 4378 3077</dd>
-<dt>LinkedIn</dt>
-<dd><a href="https://www.linkedin.com/in/dmaillard">https://www.linkedin.com/in/dmaillard</a></dd>
-<dt>Twitter</dt>
-<dd><a href="https://twitter.com/MaillardDavid">https://twitter.com/MaillardDavid</a></dd>
-<dt>Skype</dt>
-<dd><a href="david.maillard78">skype:david.maillard78?chat</a></dd>
-<dt>WhatsApp</dt>
-<dd><a href="5511943783077">whatsapp:5511943783077</a></dd>
+<dt>Social</dt>
+<dd><a href="https://www.linkedin.com/in/dmaillard">https://www.linkedin.com/in/dmaillard</a><br>
+<a href="https://twitter.com/MaillardDavid">https://twitter.com/MaillardDavid</a><br>
+<a href="david.maillard78">skype:david.maillard78?chat</a><br>
+<a href="5511943783077">whatsapp:5511943783077</a></dd>
 </dl>
