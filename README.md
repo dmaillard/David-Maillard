@@ -2,9 +2,7 @@
 
 User friendly software, results-driven websites, unlimited tech support, free software upgrades, premium hosting services and fixed ongoing prices you can budget for.
 
-* * *
-
-## Get a professional website built with a smart and effective strategy ensuring real, measurable results for your small business.
+Get a professional website built with a smart and effective strategy ensuring real, measurable results for your small business.
 
 Isn’t it about time a Web Design Company put you and your business first ?
 If you’re fed up with trying to grow with a website presence that just doesn’t generate new business, [get in touch and find out how we can help you get it right](https://github.com/dmaillard/David-Maillard/edit/master/README.md).
