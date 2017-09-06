@@ -2,6 +2,9 @@
 
 With results driven web design, unlimited support and our team of jargon-free marketers by your side, you’ll never have to worry about making budget again. You deserve a break.
 
+Isn’t it about time a Web Design Company put you and your business first ?
+If you’re fed up with trying to grow with a website presence that just doesn’t generate new business, [get in touch and find out how we can help you get it right](https://github.com/dmaillard/David-Maillard/edit/master/README.md).
+
 ***
 
 ## Web Design

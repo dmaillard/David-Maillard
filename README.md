@@ -4,18 +4,15 @@ User friendly software, results-driven websites, unlimited tech support, free so
 
 Get a professional website built with a smart and effective strategy ensuring real, measurable results for your small business.
 
-Isn’t it about time a Web Design Company put you and your business first ?
-If you’re fed up with trying to grow with a website presence that just doesn’t generate new business, [get in touch and find out how we can help you get it right](https://github.com/dmaillard/David-Maillard/edit/master/README.md).
-
 * * *
 
 ### Website Designs that attract, engage and convert visitors into sales.
 
-We believe a great website is less about good looks and more about effective strategy. [Read More](https://github.com/dmaillard/David-Maillard/edit/master/README.md)
+We believe a great website is less about good looks and more about effective strategy. [See how our web designs convert more customers](https://github.com/dmaillard/David-Maillard/edit/master/README.md).
 
 ### Unlimited Tech Support
 
-You ever hold back calling your web developer for fear of the bill you’ll get shortly after? Not with us! [Email us 20 times a day if you need to, it’s all included in one low flat fee](https://github.com/dmaillard/David-Maillard/edit/master/README.md).
+You ever hold back calling your web developer for fear of the bill you’ll get shortly after? Not with us! Email us 20 times a day if you need to, [it’s all included in one low flat fee](https://github.com/dmaillard/David-Maillard/edit/master/README.md).
 
 ### Search Engine Friendly
 
