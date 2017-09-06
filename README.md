@@ -6,27 +6,29 @@ Get a professional website built with a smart and effective strategy ensuring re
 
 * * *
 
-### [Website Designs that attract, engage and convert visitors into sales](https://github.com/dmaillard/David-Maillard/edit/master/README.md).
+### [Website Designs that attract, engage and convert visitors into sales](https://github.com/dmaillard/David-Maillard/edit/master/README.md)
 
-We believe a great website is less about good looks and more about effective strategy. [See how our web designs convert more customers](https://github.com/dmaillard/David-Maillard/edit/master/README.md).
+We believe a great website is less about good looks and more about effective strategy.
 
-### Unlimited Tech Support
+### [Unlimited Tech Support](https://github.com/dmaillard/David-Maillard/edit/master/README.md)
 
-You ever hold back calling your web developer for fear of the bill you’ll get shortly after? Not with us! Email us 20 times a day if you need to, [it’s all included in one low flat fee](https://github.com/dmaillard/David-Maillard/edit/master/README.md).
+You ever hold back calling your web developer for fear of the bill you’ll get shortly after? Not with us! Email us 20 times a day if you need to, it’s all included in one low flat fee.
 
-### Search Engine Friendly
+### [Search Engine Friendly](https://github.com/dmaillard/David-Maillard/edit/master/README.md)
 
-[Get up to 50% more traffic with a mobile friendly website](https://github.com/dmaillard/David-Maillard/edit/master/README.md). We’ll keep you up to date on all things Google, so you can focus on what you do best.
+Get up to 50% more traffic with a mobile friendly website. We’ll keep you up to date on all things Google, so you can focus on what you do best.
 
-### Get More Customers
+### [Get More Customers](https://github.com/dmaillard/David-Maillard/edit/master/README.md)
 
-Let our Digital Marketing experts take the guesswork out of your marketing. Whether it be Google Adwords, Search Engine Optimisation, Facebook Ads or YouTube marketing, [we can attract more customers right to your door](https://github.com/dmaillard/David-Maillard/edit/master/README.md)!
+Let our Digital Marketing experts take the guesswork out of your marketing. Whether it be Google Adwords, Search Engine Optimisation, Facebook Ads or YouTube marketing, we can attract more customers right to your door!
 
 ***
 
 ## Stunning web design at a price you can afford
 
-Show your competition you mean business with an agency quality website, complete with a strategy to drive sales, at a small business price. [See our Website Design Work](https://github.com/dmaillard/David-Maillard/edit/master/README.md)
+Show your competition you mean business with an agency quality website, complete with a strategy to drive sales, at a small business price.
+
+[See our Website Design Work](https://github.com/dmaillard/David-Maillard/edit/master/README.md)
 
 ***
 
