@@ -6,7 +6,7 @@ Get a professional website built with a smart and effective strategy ensuring re
 
 * * *
 
-### Website Designs that attract, engage and convert visitors into sales.
+### [Website Designs that attract, engage and convert visitors into sales](https://github.com/dmaillard/David-Maillard/edit/master/README.md).
 
 We believe a great website is less about good looks and more about effective strategy. [See how our web designs convert more customers](https://github.com/dmaillard/David-Maillard/edit/master/README.md).
 
