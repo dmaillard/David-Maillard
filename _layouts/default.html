@@ -11,15 +11,40 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+
+    <!-- Start of Async Drift Code -->
+    <script>
+    !function() {
+      var t;
+      if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+      t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+      t.factory = function(e) {
+        return function() {
+          var n;
+          return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+        };
+      }, t.methods.forEach(function(e) {
+        t[e] = t.factory(e);
+      }), t.load = function(t) {
+        var e, n, o, i;
+        e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+        o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+        n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+      });
+    }();
+    drift.SNIPPET_VERSION = '0.3.1';
+    drift.load('zsrdmf3snya7');
+    </script>
+    <!-- End of Async Drift Code -->
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h1><a href="https://dmaillard.com/">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
-<p class="view"><a href="https://dmaillard.com/">Home<small>{{ github_name }}</small></a>
+<p class="view"><!--<a href="https://dmaillard.com/">Home<small>{{ github_name }}</small></a>-->
 <a href="https://dmaillard.com/services">Services<small>{{ github_name }}</small></a>
 &nbsp;&nbsp;&nbsp;<a href="https://dmaillard.com/services/web-design">Web Design<small>{{ github_name }}</small></a>
 &nbsp;&nbsp;&nbsp;<a href="https://dmaillard.com/services/seo-online-marketing">SEO & Online Marketing<small>{{ github_name }}</small></a>
@@ -39,7 +64,7 @@
           <ul>
             <li><a href="mailto:david@dmaillard.com">Send <strong>Email</strong></a></li>
             <li><a href="skype:david.maillard78?chat">Call <strong>Skype</strong></a></li>
-            <li><a href="https://dmaillard.com/contact">free consultation <strong>Get Started</strong></a></li>
+            <li><a href="tel:+5511943783077">Call <strong>Mobile</strong></a></li>
           </ul>
         {% endif %}
       </header>
@@ -53,7 +78,8 @@
         <!--<p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>-->
         <p><img src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" alt=""></p>
         {% endif %}
-        <p><small>Hosted on <a href="https://github.com/orderedlist">GitHub</a> &mdash; Accelerated by <a href="https://github.com/orderedlist">Cloudflare</a></small></p>
+        <!--<p><small>Hosted on <a href="https://github.com/orderedlist">GitHub</a> &mdash; Accelerated by <a href="https://github.com/orderedlist">Cloudflare</a></small></p>-->
+        <p><small>Double your website leads in just 7 days! Steal these <a href="#" alt="47-Point Website Homepage Checklist" title="47-Point Website Homepage Checklist">simple home page conversion hacks to double your website leads in just 7 days!</a></small></p>
       </footer>
     </div>
 
