@@ -31,7 +31,7 @@ Don’t risk losing 30% or more of your traffic and sales by not being mobile re
 
 ## Australia’s most trusted web design company
 
-Web123 offers unbeatable value for money in comparison with other web developers, saving you on average 63% of your ongoing website costs. We’ll also hold your hand with unlimited tech support, for the life of your site.
+We offer unbeatable value for money in comparison with other web developers, saving you on average 63% of your ongoing website costs. We’ll also hold your hand with unlimited tech support, for the life of your site.
 
 We’ll help you connect the dots between communicating effectively online, and getting your customers to part with their hard-earned cash.
 
