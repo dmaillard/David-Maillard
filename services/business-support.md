@@ -14,7 +14,7 @@ The internet is moving at such a pace, you need one hell of a team by your side 
 
 So whether it be a simple question like how to add a page, a marketing question on how to get more traffic, or a technical question about the latest Google update, we’re here to hold your hand. And we won’t sting you for the privilege.
 
-You can literally call us 20 times a day and you’ll never get a bill! Now that’s peace of mind.
+You can literally email us 20 times a day and you’ll never get a bill! Now that’s peace of mind.
 
 [Get Unlimited Business Support Today](https://dmaillard.com/contact).
 
