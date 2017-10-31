@@ -68,13 +68,13 @@ We can help you harness social media to become an authority in your industry, en
 
 ***
 
-## Web Design that captures and converts more visitors into customers
+### Web Design that captures and converts more visitors into customers
 
 *   Proven ‘strategy-first’ approach
 *   The latest in conversion-friendly design
 *   Get a website that drives sales
 
-## Unrivalled support that could save you 63% on our website’s ongoing costs
+### Unrivalled support that could save you 63% on our website’s ongoing costs
 
 *   Big savings, huge results
 *   Unlimited support for one low monthly fee
