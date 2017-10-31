@@ -7,7 +7,7 @@ If you’re fed up with trying to grow with a website presence that just doesn�
 
 ***
 
-### [Web Design](https://dmaillard.com/services/web-design)
+## [Web Design](https://dmaillard.com/services/web-design)
 
 Attract & Convert More Customers With Results Driven Web Design
 
@@ -17,7 +17,7 @@ Gone are the days where you can slap together a new website design and have a fl
 
 ***
 
-### [SEO & Online Marketing](https://dmaillard.com/services/seo-online-marketing)
+## [SEO & Online Marketing](https://dmaillard.com/services/seo-online-marketing)
 
 It’s Like Having Your Entire Digital Marketing Team On Demand
 
@@ -29,7 +29,7 @@ Now, you have the ultimate marketing team on demand because traffic is good, but
 
 ***
 
-### [Business Support](https://dmaillard.com/services/business-support)
+## [Business Support](https://dmaillard.com/services/business-support)
 
 Save Thousands Every Year With Affordable, Fixed-Price Business Support
 
