@@ -53,7 +53,7 @@ We believe every business should have an online advertising strategy. But there 
 
 Using Google, Bing, Yahoo and Facebook’s advertising platforms, we can ensure we deliver the right message to your intended audience, at the right time. And if you ever feel like you’re being chased around the web after visiting a website, you are. It’s called ‘retargeting’. We do that too but in a non-creepy way. 😉
 
-TALK TO US TODAY ABOUT INSTANT LEADS FOR YOUR BUSINESS
+TALK TO US TODAY ABOUT INSTANT LEADS FOR YOUR BUSINESS 
 
 ***
 
