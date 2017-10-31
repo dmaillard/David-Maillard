@@ -4,11 +4,11 @@ The biggest problem with the web industry is the hidden costs you get hit with A
 
 Talk to us today about our unrivalled, unlimited support.
 
-GET A QUOTE FROM A COMPANY THAT SUPPORTS YOUR NEEDS
+[Get a quote from a company that supports your needs](https://dmaillard.com/contact).
 
 ***
 
-## WHAT YOU NEED WHEN IT COMES TO SUPPORT
+## What you need when it comes to support
 
 The internet is moving at such a pace, you need one hell of a team by your side just to keep up. We know how hard it is to launch a website these days, let alone one that’s affordable, works properly and doesn’t require constant maintenance to handle security threats.
 
@@ -16,7 +16,7 @@ So whether it be a simple question like how to add a page, a marketing question 
 
 You can literally call us 20 times a day and you’ll never get a bill! Now that’s peace of mind.
 
-GET UNLIMITED BUSINESS SUPPORT TODAY
+[Get Unlimited Business Support Today](https://dmaillard.com/contact).
 
 ***
 
@@ -31,8 +31,4 @@ Building a website is easy in comparison to maintaining it to ensure it’s a pr
 *   Fixed low prices and huge savings
 *   Free software upgrades and security updates
 
-***
-
-## We’re here to support hard-working business owners who want fixed costs and a reliable, no fluff, no-bull web partner.
-
-GET A QUOTE FOR A WEBSITE THAT SUPPORTS YOUR BUSINESS NEEDS.
+### We’re here to support hard-working business owners who want **fixed costs** and a **reliable, no fluff, no-bull web partner**.
