@@ -1,23 +1,22 @@
-## DIGITAL MARKETING FOR REAL WORLD BUSINESS RESULTS
+## Digital Marketing for Real World Business Results
 
 What would it mean for your business if, instead of getting 2 leads a day, you got 5?
 
-***
-
-## You don’t want to be an expert — you just want results!
+### You don’t want to be an expert — you just want results!
 
 But with so much confusion online, rapid-fire changes in the industry, so many channels to choose from, and so many digital marketing ‘experts’ dishing advice for your website and more, it’s hard to know what direction to take.
 
 ***
 
-## Small business owners are frustrated by the exact same marketing problems today:
+Small business owners are frustrated by the exact same marketing problems today:
 
-We really need more sales… BUT
-Your traditional methods of advertising just aren’t working like they used to
-You tried Adwords before and the clicks were too expensive
-With all the Google updates, you’re not really sure what to do to rank
-You’re anxious about how to keep up in such a fast-paced landscape
-With all the conflicting advice out there — who do you believe?
+## We really need more sales… BUT
+
+*   Your traditional methods of advertising just aren’t working like they used to
+*   You tried Adwords before and the clicks were too expensive
+*   With all the Google updates, you’re not really sure what to do to rank
+*   You’re anxious about how to keep up in such a fast-paced landscape
+*   With all the conflicting advice out there — who do you believe?
 
 ***
 
@@ -53,18 +52,19 @@ We believe every business should have an online advertising strategy. But there 
 
 Using Google, Bing, Yahoo and Facebook’s advertising platforms, we can ensure we deliver the right message to your intended audience, at the right time. And if you ever feel like you’re being chased around the web after visiting a website, you are. It’s called ‘retargeting’. We do that too but in a non-creepy way. 😉
 
-TALK TO US TODAY ABOUT INSTANT LEADS FOR YOUR BUSINESS 
+[Talk to us today about Instant Leads for your business](https://dmaillard.com/contact).
 
 ***
 
 ## Increase your exposure with social media marketing
 
-The importance of social media as part of your online marketing strategy can’t be overstated. More than half of Australia’s population is on Facebook so if your business isn’t part of the conversation, you’re leaving profits on the table for your competitors to swoop in and take.
+The importance of social media as part of your online marketing strategy can’t be overstated. More than a quarter of the world's population is on Facebook so if your business isn’t part of the conversation, you’re leaving profits on the table for your competitors to swoop in and take.
 
-To create an organic marketing plan that works hard to achieve your goals,it’s important that your search engine optimisation, online advertising and social media efforts all fit into the one strategy.
+To create an organic marketing plan that works hard to achieve your goals, it’s important that your search engine optimisation, online advertising and social media efforts all fit into the one strategy.
 
 We can help you harness social media to become an authority in your industry, engage with your audience, promote your content and grow your market share.
-Get in touch for a no obligation, free consultation today.
+
+[Get in touch for a no obligation, free consultation today](https://dmaillard.com/contact).
 
 ***
 
