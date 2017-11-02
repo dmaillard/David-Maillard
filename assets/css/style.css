@@ -453,6 +453,7 @@ screen and (max-width: 960px) {
         right: 50px;
         top: 52px
     }
+    .desktop-extra-menu {display:none;}
 }
 @media print,
 screen and (max-width: 720px) {
@@ -483,7 +484,6 @@ screen and (max-width: 480px) {
     header ul li+li+li {
         width: 33%
     }
-    .desktop-extra-menu {display:none;}
 }
 @media print {
     body {
