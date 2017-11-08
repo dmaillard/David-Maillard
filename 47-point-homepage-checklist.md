@@ -2,13 +2,17 @@
 layout: default
 ---
 
-_Announcing: A free 47-point paint-by-numbers checklist to..._
+Announcing: A free 47-point paint-by-numbers checklist to...
 
 # DOUBLE YOUR LEADS!
 
-There IS a Formula For Website Success, And You're About To Discover It... For Free
+### There IS a Formula For Website Success, And You're About To Discover It... For Free
 
-## DOWNLOAD NOW... IT'S FREE >> 
+### Double your website leads in just 7 days! Steal these simple home page conversion hacks to double your website leads in just 7 days!
+
+# YES! I Want To Double My Website Leads... Give Me The 47-Point Checklist!
+
+## DOWNLOAD NOW... IT'S FREE >>
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
