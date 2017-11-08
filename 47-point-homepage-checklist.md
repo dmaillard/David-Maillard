@@ -8,7 +8,7 @@ _Announcing: A free 47-point paint-by-numbers checklist to..._
 
 There IS a Formula For Website Success, And You're About To Discover It... For Free
 
-## DOWNLOAD NOW... IT'S FREE >>
+## DOWNLOAD NOW... IT'S FREE >> 
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
