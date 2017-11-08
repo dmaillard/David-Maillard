@@ -8,11 +8,15 @@ Announcing: A free 47-point paint-by-numbers checklist to...
 
 ### There IS a Formula For Website Success, And You're About To Discover It... For Free
 
-### Double your website leads in just 7 days! Steal these simple home page conversion hacks to double your website leads in just 7 days!
-
-# YES! I Want To Double My Website Leads... Give Me The 47-Point Checklist!
-
 ## DOWNLOAD NOW... IT'S FREE >>
+
+![](https://guides.github.com/activities/hello-world/branching.png)
+
+Double your website leads in just 7 days! Steal these simple home page conversion hacks to double your website leads in just 7 days!
+
+## YES! I Want To Double My Website Leads... Give Me The 47-Point Checklist!
+
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
