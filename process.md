@@ -1,6 +1,6 @@
 ## A proven process to convert more of your visitors into customers
 
-Our ‘strategy first’ web design process has seen some incredible results for clients from $20,000 in orders just 24 hours after launch, through to a 300% increase in traffic for a real estate client. What can we help you achieve?
+Our ‘strategy first’ web design process has seen some incredible results for clients from $20,000 in orders just 24 hours after launch, through to a 300% increase in traffic for a real estate client. What can we help you achieve? 
 
 Here’s how it all works.
 
