@@ -16,6 +16,6 @@ If email is more your thing, send us your details and we’ll be in touch soon. 
 <dt>Skype</dt>
 <dd><a href="skype:david.maillard78?chat">david.maillard78</a></dd>
 <dt>Social</dt>
-<dd><a href="https://www.linkedin.com/in/dmaillard">linkedin.com/in/dmaillard</a><br>
+<dd><a href="https://www.linkedin.com/in/david-maillard">linkedin.com/in/david-maillard</a><br>
 <a href="https://twitter.com/MaillardDavid">twitter.com/MaillardDavid</a><br></dd>
 </dl>
