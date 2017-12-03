@@ -29,9 +29,3 @@ Let our Digital Marketing experts take the guesswork out of your marketing. Whet
 Show your competition you mean business with an agency quality website, complete with a strategy to drive sales, at a small business price.
 
 [See our Website Design Work](https://dmaillard.com/work)
-
-***
-
-## 47-Point Website Homepage Checklist
-
-**GET INSTANT ACCESS** Double your website leads in just 7 days! [Steal these simple home page conversion hacks to double your website leads in just 7 days!](#)
