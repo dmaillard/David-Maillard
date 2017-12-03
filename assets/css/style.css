@@ -249,7 +249,8 @@
 body {
     background-color: #ffffff;
     padding: 50px;
-    font: 17px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif, "Noto Sans";
+    font: 17px/1.5;
+    font-family: 'Lato', sans-serif;
     color: #637381;
     font-weight: 300;
     -webkit-font-smoothing: antialiased;
