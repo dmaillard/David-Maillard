@@ -458,6 +458,12 @@ screen and (max-width: 960px) {
     .desktop-extra-menu {display:none;}
 }
 @media print,
+screen and (min-width: 960px) {
+    header ul {
+        display: none;
+    }
+}
+@media print,
 screen and (max-width: 720px) {
     body {
         word-wrap: break-word
@@ -484,7 +490,7 @@ screen and (max-width: 480px) {
     }
     header li,
     header ul li+li+li {
-        width: 33%
+        width: 100%
     }
 }
 @media print {
