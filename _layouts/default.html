@@ -33,8 +33,7 @@
             a.appendChild(r);
         })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
     </script>
-  <!--<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us6.list-manage.com","uuid":"192102761c8c23402e9154b26","lid":"135bef6e30"}) })</script>
--->
+
   </head>
   <body>
     <div class="wrapper">
@@ -79,13 +78,16 @@
         <!--<p><img src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" alt=""></p>-->
         {% endif %}
 
+        <!--<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+        <script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us6.list-manage.com","uuid":"192102761c8c23402e9154b26","lid":"135bef6e30"}) })</script>
+      -->
         <button id="open-popup">Subscribe to our mailing list</button>
 
         <script type="text/javascript" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
 
         <script>
         function showMailingPopUp() {
-            require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"ad3626624633","lid":"37845629827345"}) })
+            require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us6.list-manage.com","uuid":"192102761c8c23402e9154b26","lid":"135bef6e30"}) })
             document.cookie = "MCEvilPopupClosed=; expires=Thu, 01 Jan 1970 00:00:00 UTC";
         };
         document.getElementById("open-popup").onclick = function() {showMailingPopUp()};
